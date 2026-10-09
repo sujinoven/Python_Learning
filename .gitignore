@@ -137,3 +137,5 @@ logs/
 credentials.json
 secrets.json
 service-account*.json
+
+*.mp4
